@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/one-piece/static/css/main.0b27e120.css",
+    "main.js": "/one-piece/static/js/main.2c0c3fb3.js",
+    "static/media/personagem-tony-chopper.png": "/one-piece/static/media/personagem-tony-chopper.21ab93c8054e8a3ddf85.png",
+    "static/media/personagem-roronoa-zoro.png": "/one-piece/static/media/personagem-roronoa-zoro.5f6d04219e2f4fb3372a.png",
+    "static/media/personagem-nami.png": "/one-piece/static/media/personagem-nami.fdeaa640b5459e9bf686.png",
+    "static/media/personagem-monkey-d-luffy.png": "/one-piece/static/media/personagem-monkey-d-luffy.76bb900b0e908d09cc8c.png",
+    "static/media/personagem-sanji.png": "/one-piece/static/media/personagem-sanji.2e23814db24ff5c5d766.png",
+    "static/media/one-piece-logo.png": "/one-piece/static/media/one-piece-logo.921aa636d84b21c0214f.png",
+    "index.html": "/one-piece/index.html",
+    "main.0b27e120.css.map": "/one-piece/static/css/main.0b27e120.css.map",
+    "main.2c0c3fb3.js.map": "/one-piece/static/js/main.2c0c3fb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b27e120.css",
+    "static/js/main.2c0c3fb3.js"
+  ]
+}
